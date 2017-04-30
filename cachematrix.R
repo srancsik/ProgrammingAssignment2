@@ -1,5 +1,5 @@
 #This code will return the inverse of a matrix
-#Running the below lines 3 sample lines in console will return the interted matrix
+#Running the below 3 sample lines in console will return the interted matrix
 #   originalmatrix<-matrix(c(1,2,3,4),2,2)
 #   cachedmatrix <- makeCacheMatrix(originalmatrix)
 #   cacheSolve(cachedmatrix)
